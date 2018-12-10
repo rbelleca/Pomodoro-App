@@ -79,7 +79,11 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
 
 ### Wireframes
 <img src="http://g.recordit.co/JXahmbtflV.gif" width=200><br>
-<img src="https://i.imgur.com/cTXdJur.png" width=200><br>
+<img src="https://i.imgur.com/cTXdJur.png" width=150>
+<img src="https://i.imgur.com/gbOWiPh.png" width=150>
+<img src="https://i.imgur.com/WG1461v.png" width=150>
+<img src="https://i.imgur.com/td8Fq9F.png" width=150>
+<br>
 ---
 
 ### App Pitch Presentation
