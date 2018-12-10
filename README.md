@@ -1,7 +1,6 @@
 # Pomodoro-App
 Productivity App
 
-# README Template
 ## 1. User Stories (Required and Optional)
 **Required Must-have Stories**
  * Users can sign up for an account using email
