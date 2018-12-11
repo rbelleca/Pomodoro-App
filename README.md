@@ -74,6 +74,19 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
   On the other hand, we have Toby. Nobody likes Toby so he always spends his time studying. He is not doing that well in his classes. Although he always study for extensive hours, Toby loses his focus when he studies and gets really exhausted after. As you can see on his face, that is very much true. He wants to be more efficient and more productive.
    
    Fortunately, there's Pomodoro app to help them get things done. When Michael began using Pomodoro app, he started to plan out week ahead of his tests. Pomodoro made him a couple of study sessions that only lasts for an hour a day until his Calculus test. He was happy because he didn't like to study for extended hours the night before the test like he used to. Now, he feels like he have extra hours in his days to do other things that he loves. 
+   
+   
+### App Features:
+ 
+**QuickTimer™**
+- Create your own timer in no time using our templates. Pomodoro has built-in templates (25-5 or 30-10) that users can choose from.  Let’s say you want to study for an hour. You can choose the 25-5 template, press start and you are good to go. The timer will start as soon as you press the button, and after 25 mins, the timer for the 5-min break will start, so on and so forth until you reach an hour of studying for that session. 
+
+**Progress Tracker**
+- Keeps track of the hours you put in on your tasks. As you can see here, these are the classes that Michael is taking and the hours he put in and the weekly hour goals. It is recommended that students study 2-3 hours per unit outside of class. Pomodoro app helps students to keep up with this.
+
+**The Finals™**
+- Every student has a big task/event/ test that they want to prepare for like a speech, Calculus test or Physics lab. 
+Pomodoro will help you break down that big tasks into smaller ones to avoid procrastinating on it. The app will create pre-set timers throughout a week or 2 before the big day. This ensures the users put in the recommended time to prepare for that big task. Let say you a week before a test. Pomodoro will set-up study sessions with pre-set timers on it for you.
 
 ---
 
@@ -88,4 +101,6 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
 
 ### App Pitch Presentation
 
+Google Slides: https://docs.google.com/presentation/d/1hEZ0VMlzlgRNNkIFAxw52PV93czhxA2AJkaT6cEN1FM/edit?usp=sharing
+Youtube :https://youtu.be/PdXiLszawlI
 
