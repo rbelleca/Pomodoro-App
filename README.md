@@ -84,10 +84,30 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
 ---
 
 ### Wireframes
-   <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; vertical-align: middle; padding:20px 20px 20px 20px;">
-    <img src="https://i.imgur.com/APjn9xH.png" width=150; padding: 5px><img src="https://i.imgur.com/Vvsg9XW.png" width=150; padding: 5px><img src="https://imgur.com/fTFKEAU.png" width=150><img src="https://imgur.com/OsmxYTu.png" width=150><img src="https://imgur.com/JI6ExuY.png" width=150>
- 
-   </div>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<div class="row">
+  <div class="column">
+   <img src="https://i.imgur.com/APjn9xH.png" width=150>
+ </div>
+</div>
+
 
 
 
