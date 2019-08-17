@@ -1,4 +1,4 @@
-# Pomodoro-App
+# Pomodoro (IOS)
 Productivity App
 
 ## 1. User Stories (Required and Optional)
@@ -13,7 +13,6 @@ Productivity App
  * Users can also upvote posts in the forum/community section
 
 ## 2. Screen Archetypes
-
  * Login Screen
    * Users can either sign-up or login on this screen
  * Registration Screen
@@ -30,8 +29,7 @@ Productivity App
      * Works like a calendar
      * Users can sync their personal calendar in the schedule maker 
        for a more organized and specific daily schedule
- 
- 
+       
 ## 3. Navigation
 **Tab Navigation** (Tab to Screen)
  * Opening Screen/Log-in Screen
@@ -48,10 +46,6 @@ Productivity App
  * Schedule Maker Screen
  * Progress Tracker Screen
 ---
-
-## List of App Names
- - Pomodoro app
- - Carpe Diem app
  
 ### App Description
 - This is a productivity app that mainly uses the Pomodoro technique, a time management method that uses a timer to break down work into intervals, separated by short breaks. Pomodoro app allows its users to create a timer that utilizes the Pomodoro technique to ensure greater productivity. The app recognizes that most people have short attention spans, so one of its goals is to turn that into an advantage. This app allows users to create a schedule, set up timers, and visualize their daily plan up to the smallest details that we don’t usually put in our calendars, like coffee breaks or cool-down time.
@@ -79,23 +73,28 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
 ### App Features:
  
 **QuickTimer™**
-- Create your own timer in no time using our templates. Pomodoro has built-in templates (25-5 or 30-10) that users can choose from.  Let’s say you want to study for an hour. You can choose the 25-5 template, press start and you are good to go. The timer will start as soon as you press the button, and after 25 mins, the timer for the 5-min break will start, so on and so forth until you reach an hour of studying for that session. 
+- Allows users to set up a timer conveniently as an iPhone timer. However, this feature asks users to input the total amount of hours they would want to study for and how long can they study efficiently, which is basically their focus span. Every person has a different attention span. Some people can study for long extensive hours without getting distracted while others prefer a short study session over a long period of time. 
 
 **Progress Tracker**
-- Keeps track of the hours you put in on your tasks. As you can see here, these are the classes that Michael is taking and the hours he put in and the weekly hour goals. It is recommended that students study 2-3 hours per unit outside of class. Pomodoro app helps students to keep up with this.
+- Allows user to keep track of how many hours they have put in. Gives a more in-depth analysis of the users’ progress. Every time QuickTimer or Blueprint is used, users have the option to add it to Progress Tracker. 
 
-**The Finals™**
-- Every student has a big task/event/ test that they want to prepare for like a speech, Calculus test or Physics lab. 
-Pomodoro will help you break down that big tasks into smaller ones to avoid procrastinating on it. The app will create pre-set timers throughout a week or 2 before the big day. This ensures the users put in the recommended time to prepare for that big task. Let say you a week before a test. Pomodoro will set-up study sessions with pre-set timers on it for you.
+**BluePrint™**
+- Every student has a big task/event/ test that they want to prepare for like a speech, test, or even a final exam. This feature allows users to add such events and generates a prior schedule of study sessions to ensure that the user is well prepared for the event. The feature helps users break down a big task into smaller ones. The users can choose the recommended time which depends on units taken or they can choose any desired hours.
 
 ---
 
 ### Wireframes
-<img src="http://g.recordit.co/JXahmbtflV.gif" width=200><br>
-<img src="https://i.imgur.com/cTXdJur.png" width=150>
-<img src="https://i.imgur.com/gbOWiPh.png" width=150>
-<img src="https://i.imgur.com/WG1461v.png" width=150>
-<img src="https://i.imgur.com/td8Fq9F.png" width=150>
+<img src="http://g.recordit.co/ckvTgeeqt8.gif" width=200>
+<img src="http://g.recordit.co/tTB5MXcxMc.gif" width=200>
+<img src="http://g.recordit.co/2T0L1I0i8D.gif" width=200>
+<img src="http://g.recordit.co/3CQbqLPsJz.gif" width=200>
+<br>
+
+<img src="https://imgur.com/APjn9xH" width=150>
+<img src="https://imgur.com/Vvsg9XW" width=150>
+<img src="https://imgur.com/fTFKEAU" width=150>
+<img src="https://imgur.com/OsmxYTu" width=150>
+<img src="https://imgur.com/JI6ExuY" width=150>
 <br>
 ---
 
