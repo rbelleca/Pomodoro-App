@@ -84,19 +84,12 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
 ---
 
 ### Wireframes
-<img src="http://g.recordit.co/ckvTgeeqt8.gif" width=200>
-<img src="http://g.recordit.co/tTB5MXcxMc.gif" width=200>
-<img src="http://g.recordit.co/2T0L1I0i8D.gif" width=200>
-<img src="http://g.recordit.co/3CQbqLPsJz.gif" width=200>
-<br>
+<img src="https://i.imgur.com/APjn9xH.png" width=150>
+<img src="https://i.imgur.com/Vvsg9XW.png" width=150>
+<img src="https://imgur.com/fTFKEAU.png" width=150>
+<img src="https://imgur.com/OsmxYTu.png" width=150>
+<img src="https://imgur.com/JI6ExuY.png" width=150>
 
-<img src="https://imgur.com/APjn9xH" width=150>
-<img src="https://imgur.com/Vvsg9XW" width=150>
-<img src="https://imgur.com/fTFKEAU" width=150>
-<img src="https://imgur.com/OsmxYTu" width=150>
-<img src="https://imgur.com/JI6ExuY" width=150>
-<br>
----
 
 ### App Pitch Presentation
 
