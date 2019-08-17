@@ -81,25 +81,28 @@ Let me introduce you first to Michael. Michael is very funny guy but he has a pr
 **BluePrint™**
 - Every student has a big task/event/ test that they want to prepare for like a speech, test, or even a final exam. This feature allows users to add such events and generates a prior schedule of study sessions to ensure that the user is well prepared for the event. The feature helps users break down a big task into smaller ones. The users can choose the recommended time which depends on units taken or they can choose any desired hours.
 
----
+----
 
 ### Wireframes
+Pomodoro was mainly designed using Figma.
+
+<p float="left">
+  <img src="https://i.imgur.com/APjn9xH.png" width=150>
+  <img src="https://i.imgur.com/Vvsg9XW.png" width=150>
+  <img src="https://imgur.com/fTFKEAU.png" width=150>
+  <img src="https://imgur.com/OsmxYTu.png" width=150>
+  <img src="https://imgur.com/JI6ExuY.png" width=150>
+</p>
+<br>
+
+<p float="left">
 <img src="http://g.recordit.co/ckvTgeeqt8.gif" width=200>
 <img src="http://g.recordit.co/tTB5MXcxMc.gif" width=200>
 <img src="http://g.recordit.co/2T0L1I0i8D.gif" width=200>
 <img src="http://g.recordit.co/3CQbqLPsJz.gif" width=200>
-<br>
-
-<img src="https://imgur.com/APjn9xH" width=150>
-<img src="https://imgur.com/Vvsg9XW" width=150>
-<img src="https://imgur.com/fTFKEAU" width=150>
-<img src="https://imgur.com/OsmxYTu" width=150>
-<img src="https://imgur.com/JI6ExuY" width=150>
-<br>
----
-
-### App Pitch Presentation
-
+</p>
+ 
+## App Pitch Presentation
 Google Slides: https://docs.google.com/presentation/d/1hEZ0VMlzlgRNNkIFAxw52PV93czhxA2AJkaT6cEN1FM/edit?usp=sharing
 Youtube :https://youtu.be/PdXiLszawlI
 
