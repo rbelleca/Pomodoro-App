@@ -1,18 +1,11 @@
 # Pomodoro (IOS)
 Productivity App
 
-## 1. User Stories (Required and Optional)
-**Required Must-have Stories**
- * Users can sign up for an account using email
- * Users can set-up quick timers, view their schedule, and see their progress.
- * Users can use Pomodoro templates or make their own re-usable templates.
- * Users can sync their personal calendar to Pomodoro schedule maker.
- 
-**Optional Nice-to-have Stories**
- * Users can share their experiences/study tips in forum
- * Users can also upvote posts in the forum/community section
+## App Pitch Presentation
+Google Slides: https://docs.google.com/presentation/d/1hEZ0VMlzlgRNNkIFAxw52PV93czhxA2AJkaT6cEN1FM/edit?usp=sharing
+Youtube :https://youtu.be/PdXiLszawlI
 
-## 2. Screen Archetypes
+## 1. Screen Archetypes
  * Login Screen
    * Users can either sign-up or login on this screen
  * Registration Screen
@@ -30,7 +23,7 @@ Productivity App
      * Users can sync their personal calendar in the schedule maker 
        for a more organized and specific daily schedule
        
-## 3. Navigation
+## 2. Navigation
 **Tab Navigation** (Tab to Screen)
  * Opening Screen/Log-in Screen
  * Home Screen
@@ -55,7 +48,6 @@ Productivity App
 - **Mobile:** Can be access mainly on mobile devices and can be viewed on desktop. Uses camera to keep track of the user's progress.
 - **Story:** Allows the user to make create Pomodoro timers, view their schedule, and see their progress.
 - **Market:** College students at a 4-year university especially students that are unproductive and has a habit of procrastinating. Moreover, students who wants to be more efficient in studying. I’m sure that most of us can relate to Michael or Tob one way or another, so here’s a solution. I introduce to you… Pomodoro app
-
 - **Habit:** Expected to be used daily or whenever the user wants to get things done as efficient as possible. The app is not limited to student users. It can also be applied in the office for working people. 
 - **Scope:** Anyone who wants to get things done efficiently. Mostly but not limited to students can use this app. The app can be used with and without internet connection based on features used.
 
@@ -102,7 +94,4 @@ Pomodoro was mainly designed using Figma.
 <img src="http://g.recordit.co/3CQbqLPsJz.gif" width=200>
 </p>
  
-## App Pitch Presentation
-Google Slides: https://docs.google.com/presentation/d/1hEZ0VMlzlgRNNkIFAxw52PV93czhxA2AJkaT6cEN1FM/edit?usp=sharing
-Youtube :https://youtu.be/PdXiLszawlI
 
