@@ -8,6 +8,16 @@ Youtube :https://youtu.be/PdXiLszawlI
 ### Wireframes
 Pomodoro was mainly designed using Figma.
 
+
+Current Progress: 
+
+<p float="left">
+  <img src="https://drive.google.com/file/d/1szR5mxZaXhYNcMV3oC1GMKdp-jI--OB2/view?usp=sharing" width=150>
+  <img src="https://drive.google.com/file/d/1uxH81yoPIE5tK2Nb-YOBw_sT7P0g5Jts/view?usp=sharing" width=150>
+  <img src="https://drive.google.com/file/d/1PmQNDe0uroqqSpqzhmmrduTlCYri4U6a/view?usp=sharing" width=150>
+</p>
+<br>  
+
 <p float="left">
   <img src="https://i.imgur.com/APjn9xH.png" width=150>
   <img src="https://i.imgur.com/Vvsg9XW.png" width=150>
